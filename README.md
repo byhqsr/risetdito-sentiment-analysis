@@ -1,2 +1,2 @@
 # Sentiment Analysis dengan Python
-Kodingan Sentiment Analysis
+By Muhammad Apriandito
